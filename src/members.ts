@@ -84,9 +84,9 @@ export const MEMBERS: Member[] = [
     discordId: "799251427839049818",                  
   },
   {
-    url: "https://kuromi.foo",
-    name: "Sxxi?",
-    buttonUrl: "https://kuromi.foo/88x31.gif",
+    url: "https://miu.codes",
+    name: "superstar miu",
+    buttonUrl: "https://miu.codes/88x31.gif",
     discordId: "586802340607164417",
   }
 ];
